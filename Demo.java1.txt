@@ -1,0 +1,10 @@
+public class test{
+
+
+public void get(){
+
+System.out.println("Hi") ;
+
+}
+
+}

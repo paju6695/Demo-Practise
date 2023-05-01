@@ -1,0 +1,9 @@
+Public class test{
+
+public void get1(){
+
+System.out.println("Thanku") ;
+
+}
+
+}
